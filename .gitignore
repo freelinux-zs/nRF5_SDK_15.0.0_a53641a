@@ -1,5 +1,5 @@
 examples/*/*/*/*/arm5_no_packs/_build/*
 examples/*/*/*/*/arm5_no_packs/RTE/*
-examples/*/*/*/*/arm5_no_packs/*
+#examples/*/*/*/*/arm5_no_packs/*
 nRF5_SDK_15.0.0_a53641a.si4project/
 
